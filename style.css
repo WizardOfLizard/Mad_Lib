@@ -10,8 +10,8 @@ div {
     color: rgb(202, 202, 202);
 }
 #story {
-    
+    background-color: rgb(202, 202, 202);
 }
 #blanks {
-
+    color: red;
 }
